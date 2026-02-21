@@ -53,7 +53,7 @@ Lab13_Bootstrap_Fedotova/
 ## Ссылки:
 
 - [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/)
-- [GitHub Repository](https://github.com/vfedotova418-png/Lab13_Bootstrap)
+- [GitHub Repository](https://github.com/vfedotova418-png/ISRPO_Lab13_Bootstrap)
 
 ---
 
